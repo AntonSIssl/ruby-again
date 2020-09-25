@@ -1,0 +1,18 @@
+Basic
+Task 11: Tell me about properties of 'puts' which I should know?
+Task 15: How does "arrows" work?
+Task 24: Which one method fits more?
+Task 26,27: Which one method is more suitable?
+Task 29: Didn't understood task....
+Task 38: Why my example doesn't work?
+Task 39: Which one method fits more?
+Task 41: How to interact with arrays??
+Task 44: How to do...
+
+Array
+Task 5: See the difference
+
+How does '.reduce()/.inject()' works?
+".map" and ".each" differance?
+
+https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/solutions/ruby
